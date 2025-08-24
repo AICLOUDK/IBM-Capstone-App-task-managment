@@ -1,3 +1,6 @@
-# app-task-managment
+# app-task-managment-capstone
 k-tech(kamyab) app for task-managment
 application software
+igital design project created within the Figma platform, which is a popular cloud-based UI/UX design tool. Figma allows designers to create, prototype, and collaborate on app interfaces seamlessly, offering features like vector editing, interactive prototyping, and real-time collaboration. When designing an app in Figma, designers typically build wireframes, mockups, and high-fidelity prototypes that illustrate the user flow, layout, and visual elements of the app. The platform's collaborative nature enables teams to work together simultaneously, provide feedback, and make iterative improvements, making it an essential tool in modern app development workflows.
+
+Figma also supports the creation of design systems and reusable components, which help maintain consistency across different screens and features within the app. Once the design phase is complete, developers can inspect the Figma files to extract specifications, assets, and CSS code directly from the platform, streamlining the handoff process. Overall, designing an app in Figma combines visual design, prototyping, and collaboration into a single environment, making it easier for teams to develop user-centered, visually appealing, and functional app interfaces efficiently.

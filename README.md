@@ -1,4 +1,4 @@
-# app-task-managment-capstone
+# IBM Mobile App Development Capstone Project 
 k-tech(kamyab) app for task-managment
 application software
 igital design project created within the Figma platform, which is a popular cloud-based UI/UX design tool. Figma allows designers to create, prototype, and collaborate on app interfaces seamlessly, offering features like vector editing, interactive prototyping, and real-time collaboration. When designing an app in Figma, designers typically build wireframes, mockups, and high-fidelity prototypes that illustrate the user flow, layout, and visual elements of the app. The platform's collaborative nature enables teams to work together simultaneously, provide feedback, and make iterative improvements, making it an essential tool in modern app development workflows.
